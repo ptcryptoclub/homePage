@@ -1,2 +1,3 @@
 # homePage
-![](logo/blob/main/B.png)
+
+<img src="logo/B.png" with="300">
